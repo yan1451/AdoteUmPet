@@ -1,6 +1,6 @@
-<h1 align="center">⚽ Welcome to the Football Score Board Project ⚽</h1>
+<h1 align="center"> Adote Um Pet</h1>
 
-## Install and Usage 
+## Instação e Uso
 - Este projeto é configurado para usar a porta 3000 (front-end), 3001(back-end) eles precisam estar disponíveis no seu computador ou alterados no projeto.
 
 # Executar Projeto em sua maquina:
